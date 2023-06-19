@@ -80,5 +80,8 @@
     "uglify-es",
     "webpack",
     "webpack-plugin"
-  ]
+  ],
+  "overrides": {
+    "ssri@<=6.0.2": "6.0.2"
+  }
 }
